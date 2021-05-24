@@ -1,0 +1,4 @@
+We have taken cityscapes-dataset comprising real-life images as well as semantic understanding of urban street scenes.
+
+One can find dataset from the following link:
+https://www.cityscapes-dataset.com/
